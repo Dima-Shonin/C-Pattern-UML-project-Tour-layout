@@ -1,0 +1,52 @@
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.exe
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.deps.json
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.runtimeconfig.json
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.runtimeconfig.dev.json
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.dll
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.pdb
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.AssemblyInfo.cs
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.dll
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.pdb
+C:\Users\Dima\source\repos\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.genruntimeconfig.cache
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.exe
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.deps.json
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.runtimeconfig.json
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.runtimeconfig.dev.json
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.dll
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.pdb
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.csprojAssemblyReference.cache
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.AssemblyInfoInputs.cache
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.AssemblyInfo.cs
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.csproj.CoreCompileInputs.cache
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.dll
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.pdb
+C:\Users\Dima-PC\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.genruntimeconfig.cache
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.exe
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.deps.json
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.runtimeconfig.json
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.dll
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.pdb
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.AssemblyInfo.cs
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.dll
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.pdb
+C:\Users\Dima\Desktop\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.genruntimeconfig.cache
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.exe
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.deps.json
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.runtimeconfig.json
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.dll
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\bin\Debug\netcoreapp3.1\Travel_Agency.pdb
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.AssemblyInfo.cs
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.dll
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.pdb
+C:\Users\Dima\Desktop\Фирма Путишествий\Travel_Agency\Travel_Agency\obj\Debug\netcoreapp3.1\Travel_Agency.genruntimeconfig.cache
